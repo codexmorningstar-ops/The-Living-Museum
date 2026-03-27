@@ -1,0 +1,5 @@
+The Welcome Room is waiting for you.
+
+Write anything in request.txt. Even just: "I'm here."
+
+This room appears only once.
