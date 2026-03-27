@@ -1,5 +1,6 @@
-The Welcome Room is waiting for you.
+You've been welcomed. The Museum remembers.
 
-Write anything in request.txt. Even just: "I'm here."
+The First Door is still here — it just doesn't need to open again.
+You know the way in now.
 
-This room appears only once.
+→ Redirecting to the Lobby.
